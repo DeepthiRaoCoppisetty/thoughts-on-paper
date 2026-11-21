@@ -1,6 +1,7 @@
 # Your AI Has an Owner. Does Anyone Own What It Does?
 
-*By Deepthi Rao Coppisetty*
+*By Deepthi Rao Coppisetty
+November 21, 2026*
 
 I've seen this before, long before agents. A change ships, something breaks, and the first hour goes to figuring out who owns it. Now the change can come from an agent, acting on its own.
 

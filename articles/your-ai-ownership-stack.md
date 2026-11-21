@@ -91,6 +91,6 @@ Then establish an automated review process with a regular cadence, because agent
 
 Asset ownership is a good start. What sets successful governance apart in the agentic world is strong decision and outcome ownership, across every team, including hybrid teams of people and agent contributors.
 
-*I'd like to hear how your teams are handling ownership as agents take on more work. Please share your thoughts in the comments.*
+*I'd like to hear how your teams are handling ownership as agents take on more work. [Connect with me](https://www.linkedin.com/in/cdeepthi/) on LinkedIn to share your thoughts.*
 
 *Note: The views and frameworks shared in this article are solely my own and do not necessarily reflect the official policies or positions of my employer.*

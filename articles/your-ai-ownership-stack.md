@@ -29,11 +29,11 @@ The scale is already here, and it's growing faster than ownership.
 | The average number of active agents per organization **nearly 3X’ed** in the last 14 months (Feb 2025 to Apr 2026).                                             | [Salesforce Agentic Enterprise Index](https://www.salesforce.com/agentforce/agentic-enterprise-index/)                     |
 | The number of agents running at each Fortune 500 company is estimated to grow from **about 15 in 2025 to as many as 150,000 by 2028** (Gartner estimate).       | [Gartner, via Computerworld](https://www.computerworld.com/article/4165686/gartner-sees-untamed-growth-in-agentic-ai.html) |
 
-## The Ownership Stack
+## The AI Ownership Framework
 
 I think about AI ownership in three layers: Asset Ownership (who owns the AI stack), Decision Ownership (who decides what it can and can't do), and Outcome Ownership (who owns it when things go wrong). Most organizations have the first underway, the second is fuzzy, and the third is where the real work is now.
 
-![The Ownership Stack](ownership_stack.png)
+![The AI Ownership Framework](ownership_framework.png)
 
 ### 1. Asset Ownership: Who Owns the AI Stack?
 

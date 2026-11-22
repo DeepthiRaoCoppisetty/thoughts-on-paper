@@ -2,13 +2,13 @@
 
 Deepthi Rao Coppisetty | November 21, 2026
 
-I've seen this before, long before agents. A change ships, something breaks, and the first hour goes to figuring out who owns it. Now the change can come from an agent, acting on its own.
+AI changed more than how software is built. A change ships, something breaks, and the first hour goes to figuring out who owns it. Now the change can come from an agent, acting on its own.
 
-The first questions are about the fix: What broke? Who owns it? How do we fix it fast and make it stick? The harder question comes after: Who gave the agent approval to do this in the first place?
+The first questions are about the fix: What broke? Who owns it? How do we fix it fast and make it stick? The harder question comes after: Who approved the agent to do this?
 
-The model has an owner. The repo has an owner. The service has an owner. Even the agent has an owner. But nobody owned the decision to let the agent act, and nobody owns the outcome now that it has.
+The model has an owner. So do the repository, the service, and even the agent. But nobody owned the decision to let the agent act, and nobody owns the outcome now that it has.
 
-That's the governance gap. We govern the AI stack and tools we have, but we don't fully govern the agents running on them: who decides what they can and can't do, or who owns the outcome when things go wrong.
+That's the governance gap. We govern the AI stack and tools we have, but we don't fully govern the agents running on them: who decides what they can and can't do, or who owns the outcome when things go wrong?
 
 ## We Inventoried the Easy Things
 

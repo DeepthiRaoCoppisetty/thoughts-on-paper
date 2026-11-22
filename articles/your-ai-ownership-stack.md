@@ -18,7 +18,7 @@ All of that matters. But it only tells you what you have.
 
 It doesn't answer the questions that matter when something goes wrong. Who decided this system could do this? Who is accountable for what happened?
 
-Once AI starts acting instead of suggesting, those questions get real fast. An assistant that drafts code is a productivity tool. An agent that merges code, changes permissions, or touches customer data is an actor inside your organization. Every agent needs a human who owns its outcome. That isn't necessarily the engineer who owns the agent. It needs to be a leader who can assess and absorb the risk of an undesired outcome of an agent.
+Once AI starts acting instead of suggesting, those questions get real fast. An agent that merges code, changes permissions, or touches customer data is an actor inside your organization. Every agent needs a human who owns its outcome. That isn't necessarily the engineer who owns the agent. It needs to be a leader who can assess and absorb the risk of an undesired outcome of an agent.
 
 The scale is already here, and it's growing faster than ownership.
 
@@ -55,7 +55,7 @@ The question to ask: For each AI system that can take action, who approved its a
 
 ### 3. Outcome Ownership: Who Owns It When Things Go Wrong?
 
-This layer gets the least scrutiny today, and it's where organizations have the most work ahead. When an agent's action causes a security exposure, a bad customer experience, or a compliance issue, a named leader owns the outcome and what happens next. That leader needs real authority to accept the risk, hand it to the right team to fix, or pull the change back fast. Ownership without that authority won't work. And the same leader gets the credit when an agent does something amazing. With clear ownership in place, teams can experiment with confidence and build boldly.
+This layer gets the least scrutiny today, and it's where organizations have the most work ahead. When an agent's action causes a security exposure, a bad customer experience, or a compliance issue, a named leader owns the outcome and what happens next. That leader needs real authority to accept the risk, hand it to the right team to fix, or pull the change back fast. Ownership without that authority won't work. And the same leader gets the credit when an agent does something amazing. With clear ownership in place, teams can experiment with confidence.
 
 Agent traceability and logging help the leader who owns the outcome see what happened. The logs should show which agent acted, what changed, who approved it, and who owns the agent. With that, the leader can get the facts quickly and reduce time to decision.
 
@@ -65,7 +65,7 @@ The questions to ask: If this agent does something harmful tomorrow, who owns th
 
 ## Agent Governance
 
-The ownership gap used to live between teams. Now it lives between teams and between agents. An agent hands a task to another agent, that one calls a third, and the three may belong to three different teams. This gap is starting to show up inside teams too, creating silos as individuals work with agents and collaborate less with their own teammates. Most of our governance controls, like service ownership, decision logs, security reviews, and compliance guidelines, were designed for human-centric systems. They weren't designed for agents that act on their own. We don't need to invent a new governance process. The ones we have can still work. We just need to apply them to agents, and that's what my next article covers.
+The ownership gap used to live between teams. Now it lives between teams and between agents. An agent hands a task to another agent, that one calls a third, and the three may belong to three different teams. This gap is starting to show up inside teams too, creating silos as individuals work with agents and collaborate less with their own teammates. Most of our governance controls, like service ownership, decision logs, security reviews, and compliance guidelines, were designed for human-centric systems. We don't need to invent a new governance process. We just need to apply them to agents, and that's what my next article covers.
 
 ![Where the ownership gap lives](ownership_gaps.png)
 
@@ -73,13 +73,13 @@ Our current tools help. They can find agents, trace what they did, and show what
 
 ## The TPM's Role in Agent Governance
 
-TPMs, and others in similar roles, hold people and process together. They spot gaps, fill them, and often see where things will break before they do. That same skill set applies to hybrid systems of people and agent contributors. In these systems, when gaps show up in ownership, decisions, and risk, they often sit in the space between teams and agents. TPMs can identify those gaps, then work with leaders, directly responsible individuals (DRIs), and governance, risk, and compliance (GRC) and AI governance teams to close them and find the right owners in the engineering org. This doesn't call for a new role. As the industry moves toward agents, it's where the TPM skill set naturally extends.
+TPMs, and others in similar roles, hold people and process together. They spot gaps, fill them, and often see where things will break before they do. That same skill set applies to hybrid systems of people and agent contributors. In these systems, when gaps show up in ownership, decisions, and risk, they often sit in the space between teams and agents. TPMs can identify those gaps, then work with leaders, directly responsible individuals (DRIs), and governance, risk, and compliance (GRC) and AI governance teams to close them and find the right owners in the engineering org. As the industry moves toward agents, it's where the TPM skill set naturally extends.
 
-In practice, that means getting an owner named before an agent goes live. It means working with security and engineering on what gets logged, keeping privileges current when an agent picks up new tools, and making sure every incident has a human owner who manages the risk. None of this is new for TPMs. It just extends to agents now. Agents are making changes faster and at greater scale than TPMs and engineering systems can easily track. A missed owner or a stale permission can turn into an incident much faster. That speed makes ownership work more critical, and it changes how TPMs lead: continuously, and often with agents helping, in addition to existing team check-ins.
+In practice, that means getting an owner named before an agent goes live. It means working with security and engineering on what gets logged, keeping privileges current when an agent picks up new tools, and making sure every incident has a human owner who manages the risk. Agents are making changes faster and at greater scale than TPMs and engineering systems can easily track. A missed owner or a stale permission can turn into an incident much faster. That speed makes ownership work more critical, and it changes how TPMs lead: continuously, and often with agents helping, in addition to existing team check-ins.
 
 ## Where to Start
 
-Many organizations already have a governance program that can extend to agents. If yours doesn't, start here. You don't need a giant program to close the gap. Start with three moves:
+Many organizations already have a governance program that can extend to agents. If yours doesn't, start here.  Start with three moves:
 
 1.  **Asset Ownership: name an owner for every agent.** List every AI system that can take autonomous action. Give each an owning team and a budget owner.
 2.  **Decision Ownership: record who said yes.** For each agent, track who approved its access privileges, and where that decision lives. If no one did, that needs immediate attention.
@@ -89,7 +89,7 @@ Then establish an automated review process with a regular cadence, because agent
 
 ## The Bottom Line
 
-Asset ownership is a good start. What sets successful governance apart in the agentic world is strong decision and outcome ownership, across every team, including hybrid teams of people and agent contributors.
+Most teams have asset ownership covered. What sets successful governance apart in the agentic world is strong decision and outcome ownership, across every team, including hybrid teams of people and agent contributors.
 
 *I'd like to hear how your teams are handling ownership as agents take on more work. [Connect with me](https://www.linkedin.com/in/cdeepthi/) on LinkedIn to share your thoughts.*
 
